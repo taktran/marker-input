@@ -1,0 +1,14 @@
+GEM
+  remote: http://rubygems.org/
+  specs:
+    docx (0.1.0)
+      nokogiri (~> 1.5)
+      rubyzip (~> 0.9)
+    nokogiri (1.5.6)
+    rubyzip (0.9.9)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  docx (~> 0.1.0)
