@@ -11,6 +11,10 @@ For the [pebblecode](http://pebblecode.com) education hackathon.
 
 ## Usage
 
-Docx
+Extract marks of a file or folder
 
-    ./mark-docx.rb
+    bin/mark-docx.rb [file or folder]
+
+eg,
+
+    bin/mark-docx.rb docs
